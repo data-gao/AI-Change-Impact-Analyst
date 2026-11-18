@@ -2,6 +2,11 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
+# Outlooking
+
+<img width="1917" height="876" alt="Bildschirmfoto 2026-11-18 um 14 47 28" src="https://github.com/user-attachments/assets/8c0a4d12-a47e-433b-8c1b-aa3de45c3620" />
+
+
 # AI Impact Analyst
 
 Automotive requirement impact analysis tool, converting meeting logs to user stories, comparing with IBM Jazz, and tracing dependencies via an interactive graph.
