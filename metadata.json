@@ -1,0 +1,1 @@
+{"name":"AI Impact Analyst","description":"Automotive requirement impact analysis tool, converting meeting logs to user stories, comparing with IBM Jazz, and tracing dependencies via an interactive graph.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
